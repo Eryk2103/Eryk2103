@@ -11,6 +11,7 @@ Skills:
 - .NET / ASP .NET Core / ASP .NET MVC / EF Core
 - MS SQL / My SQL
 - JavaScript / Angular / TypeScript / jQuery
+- Bootstrap / Angular Material
 
 Tools:
 - Visual Studio Code
