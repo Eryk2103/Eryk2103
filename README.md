@@ -5,4 +5,14 @@ I enjoy solving problems and backend development.
 - 🌱 I’m currently learning docker and kubernetes
 - 🤔 I’m looking for feedback on my code
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: 
+- C# 
+- .NET / ASP .NET Core / ASP .NET MVC / EF Core
+- MS SQL / My SQL
+- JavaScript / Angular / TypeScript / jQuery
+
+Tools:
+- Visual Studio Code
+- Visual Studio 2022
+- Insomia / Postman
+- Micosoft SQL Server Management / phpMyAdmin
