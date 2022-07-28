@@ -4,7 +4,7 @@ I enjoy solving problems and backend development.
 - 🔭 I’m currently working on a web scraper and online notepad
 - 🌱 I’m currently learning docker and kubernetes
 - 🤔 I’m looking for feedback on my code
-- :smile: Fun fact im a Manchester United fan
+- :smile: Fun fact i'm a Manchester United fan
 
 Skills: 
 - C# 
