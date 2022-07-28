@@ -4,7 +4,7 @@ I enjoy solving problems and backend development.
 - 🔭 I’m currently working on a web scraper and online notepad
 - 🌱 I’m currently learning docker and kubernetes
 - 🤔 I’m looking for feedback on my code
-- :smile: Fun fact i'm a Manchester United fan
+- ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
 - C# 
@@ -17,3 +17,5 @@ Tools:
 - Visual Studio 2022
 - Insomia / Postman
 - Micosoft SQL Server Management / phpMyAdmin
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/eryk-ciesielski/)
