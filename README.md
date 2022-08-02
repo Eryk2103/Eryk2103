@@ -1,7 +1,7 @@
 ### Hi there, I'm Eryk 👋
 
 I enjoy solving problems and backend development.
-- 🔭 I’m currently working on a football web app
+- 🔭 I’m currently working on a fifa22(football game) web app
 - 🌱 I’m currently learning docker and kubernetes
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
