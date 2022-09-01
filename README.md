@@ -1,17 +1,18 @@
 ### Hi there, I'm Eryk 👋
 
-I enjoy solving problems and backend development.
+I'm a junior web developer that wants to create awesome things.
+
 - 🔭 I’m currently working on a fifa22 (football game) web app
-- 🌱 I’m currently learning docker and kubernetes
+- 🌱 I’m currently nodejs and express
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
-- C# 
-- .NET / ASP .NET Core / ASP .NET MVC / EF Core
-- MS SQL / My SQL
-- JavaScript / Angular / TypeScript / jQuery
-- Bootstrap / Angular Material
+- JavaScript / TypeScript
+- Angular
+- HTML / CSS / Bootstrap / Angular Material
+- ASP .NET 
+- MS SQL / MySQL
 
 Tools:
 - Visual Studio Code
