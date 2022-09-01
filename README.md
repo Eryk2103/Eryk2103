@@ -3,7 +3,7 @@
 I'm a junior web developer that wants to create awesome things.
 
 - 🔭 I’m currently working on a fifa22 (football game) web app
-- 🌱 I’m currently nodejs and express
+- 🌱 I’m currently learning nodejs and express
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
 
