@@ -1,6 +1,6 @@
 ### Hi there, I'm Eryk 👋
 
-I'm a junior web developer that wants to create awesome things.
+I'm a junior web developer who wants to create awesome things.
 
 - 🔭 I’m currently working on a fifa22 (football game) web app
 - 🌱 I’m currently learning nodejs and express
@@ -18,6 +18,6 @@ Tools:
 - Visual Studio Code
 - Visual Studio 2022
 - Insomia / Postman
-- Micosoft SQL Server Management / phpMyAdmin
+- Micosoft SQL Server Management / MySQL Shell
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eryk-ciesielski/)
