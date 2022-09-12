@@ -3,13 +3,13 @@
 I'm a junior web developer who wants to create awesome things.
 
 - 🔭 I’m currently working on a fifa22 (football game) web app
-- 🌱 I’m currently learning nodejs and express
+- 🌱 I’m currently learning react and node.js
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
 - JavaScript / TypeScript
-- Angular
+- Angular / React
 - HTML / CSS / Bootstrap / Angular Material
 - ASP .NET 
 - MS SQL / MySQL
