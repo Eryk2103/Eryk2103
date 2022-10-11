@@ -1,8 +1,8 @@
 ### Hi there, I'm Eryk 👋
 
-I'm a junior web developer who wants to create awesome things.
+I'm a web developer who wants to create awesome things.
 
-- 🔭 I’m currently working on a fifa22 (football game) web app
+- 🔭 I’m currently working on a fifa23 (football game) web app
 - 🌱 I’m currently learning react and node.js
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
@@ -12,12 +12,12 @@ Skills:
 - Angular / React
 - HTML / CSS / Bootstrap / Angular Material
 - ASP .NET 
-- MS SQL / MySQL
+- node.js
+- MS SQL / MySQL / MongoDB
 
 Tools:
 - Visual Studio Code
 - Visual Studio 2022
 - Insomia / Postman
-- Micosoft SQL Server Management / MySQL Shell
+- Micosoft SQL Server Management / MySQL Shell / MongoDBCompas
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eryk-ciesielski/)
