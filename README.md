@@ -1,8 +1,7 @@
 ### Hi there, I'm Eryk 👋
 
-I'm a web developer who wants to create awesome things.
 
-- 🔭 I’m currently working on a fifa23 (football game) web app
+- 🔭 I’m currently working on messaging web app
 - 🌱 I’m currently learning react and node.js
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
