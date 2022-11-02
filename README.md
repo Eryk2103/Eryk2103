@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on messaging web app
-- 🌱 I’m currently learning react and node.js
+- 🌱 I’m currently learning ASP .NET Core 
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
 
@@ -10,9 +10,10 @@ Skills:
 - JavaScript / TypeScript
 - Angular / React
 - HTML / CSS / Bootstrap / Angular Material
-- ASP .NET 
 - node.js
 - MS SQL / MySQL / MongoDB
+- C#
+- ASP .NET Core
 
 Tools:
 - Visual Studio Code
