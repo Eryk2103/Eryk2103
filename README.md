@@ -1,7 +1,7 @@
 ### Hi there, I'm Eryk 👋
 
 
-- 🔭 I’m currently working on a recipe book app https://github.com/Eryk2103/cook-book-api
+- 🔭 I’m currently working on a bug tracking app
 - 🌱 I’m currently learning angular and .Net 
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
