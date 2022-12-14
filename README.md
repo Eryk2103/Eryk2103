@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a bug tracking app (.Net 6 and angular) https://github.com/Eryk2103/BugTracker
-- 🌱 I’m currently learning angular and .Net 
+- 🌱 I’m currently learning angular and .Net Core
 - 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
 
