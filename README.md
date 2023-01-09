@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on a bug tracker web app (.Net 6 and angular)
 - 🌱 I’m currently learning angular and .Net
-- 🤔 I’m looking for feedback on my code
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
