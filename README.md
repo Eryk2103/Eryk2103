@@ -1,21 +1,19 @@
 ### Hi there, I'm Eryk 👋
 
 
-- 🔭 I’m currently working on a bug tracker web app
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on web app for used pc parts
+- 🌱 I’m currently learning PHP and Symfony
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
 - C#
-- MsSql
+- ASP .NET Core
 - Angular 
 - JavaScript
-- TypeScript
-- Html
+- HTML
+- CSS
 
 Tools:
 - Visual Studio Code
-- Visual Studio 2022
 - Insomia / Postman
-- Micosoft SQL Server Management
 
