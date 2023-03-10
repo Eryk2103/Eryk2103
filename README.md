@@ -6,7 +6,9 @@
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
-- C#
+- Php 
+- Symfony
+- C# 
 - ASP .NET Core
 - Angular 
 - JavaScript
