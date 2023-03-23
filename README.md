@@ -1,15 +1,14 @@
 ### Hi there, I'm Eryk 👋
 
 
-- 🔭 I’m currently working on a web app for used pc parts
-- 🌱 I’m currently learning PHP and Symfony
+- 🔭 I’m currently working on a tournament maker web app
+- 🌱 I’m currently learning Laravel and Vue.js
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
 - Php 
-- Symfony
 - C# 
-- ASP .NET Core
+- SQL
 - Angular 
 - JavaScript
 - HTML
