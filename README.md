@@ -1,18 +1,19 @@
 ### Hi there, I'm Eryk 👋
 
 
-- 🔭 I’m currently working on a bugtracker web app
-- 🌱 I’m currently learning c# and ASP .NET Core
+- 🔭 I’m currently working on recipe storing web app
+- 🌱 I’m currently learning Nest.js and Angular
 - ⚡ Fun fact i'm a Manchester United fan
 
 Skills: 
-- C# 
-- SQL
 - Angular 
 - JavaScript
 - Typescript
 - HTML
 - CSS
+- C# / .Net
+- SQL
+- Node.js
 - Git
 
 Tools:
